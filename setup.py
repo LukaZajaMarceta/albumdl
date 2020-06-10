@@ -10,7 +10,6 @@ setup(
     version=0.1,
     packages=find_packages(),
     install_requires=['youtube_dl',
-                      'html2text',
                       'python-youtube'],
     author='Luka Zaja',
     author_email='lukazajamarceta@gmail.com',
